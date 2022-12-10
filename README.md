@@ -3,7 +3,7 @@ A simple blog app. You can:
 -list blogs
 -see details of blogs
 -add new blog
--update blogs
+-edit blogs
 -delete blogs
 
 # what i use in this project:
