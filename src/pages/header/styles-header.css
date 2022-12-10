@@ -1,0 +1,24 @@
+.primary-header{
+    background-color:rgb(219, 255, 127);
+    justify-content: space-between;
+    display: flex;
+    padding: 4px;
+}
+.page-title{
+    font-weight:bold; 
+    color:rgb(201, 40, 40);
+    text-align: left;
+    font-size: large;
+    font-style: italic;
+}
+.primary-header a{
+    color:rgb(46, 23, 193);
+    text-align: right;
+    font-size: medium;
+    text-decoration: none;
+    }
+.primary-header a:hover{
+    color:rgb(30, 5, 223);
+    font-weight:bold; 
+    font-size: large;
+}
