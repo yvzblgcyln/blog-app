@@ -7,5 +7,8 @@
 ## -local Fake Api
 ## -delete, put, post methods
 ## -custom hooks (useFetch)
+## -useParams 
+## -useNavigate
+## -useLocation
 ## -useState
 ## -useEffect
