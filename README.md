@@ -1,4 +1,4 @@
-# blog-app
+# React blog-app
 A simple blog app. You can:
 -list blogs
 -see details of blogs
